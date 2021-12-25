@@ -32,7 +32,7 @@ public class Hurricane {
 					System.out.println("Hurrican Category 4");
 					System.out.println("Wind Speed "+ i);
 				
-				}else if (i>=165 && i <=194) {
+				} else if (i>=165 && i <=194) {
 						
 						System.out.println("Hurrican Category 5");
 						System.out.println("Wind Speed "+ i);	
