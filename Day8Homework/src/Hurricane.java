@@ -39,10 +39,11 @@ public class Hurricane {
 				}
 				
 				
-				i+= 1;
+				i++;
 				
 			
 			}
 		
-	}
+	} 
+	
 }
