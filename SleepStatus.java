@@ -8,7 +8,7 @@ public class SleepStatus {
 	public static boolean sleepIn(boolean isWeekday, boolean isVacation) {
 		boolean result = false;
 		{
-			if (isWeekday == isVacation) {
+			if (isWeekday == true) {
 				result = true;
 			}
 			return result;
